@@ -1,0 +1,6 @@
+﻿Activity,Activity Cost,Cost Driver,Cost Driver Units
+Order,9000000.00,Order lines,5528.00
+Warehouse,14000000.00,Pallets,1859.00
+Assembly,47000000.00,Components,139425.00
+QC,5000000.00,Orders,1106.00
+Administration,29000000.00,Products,3.00

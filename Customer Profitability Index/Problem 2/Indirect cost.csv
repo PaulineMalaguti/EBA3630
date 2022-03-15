@@ -1,0 +1,21 @@
+;Activity cost;Cost driver;Explanation;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Sales;750000;Number order lines;;;;;;;;;;;
+Order incoming from customers;650000;Number order lines;;;;;;;;;;;
+;;Number components per pallet;;;;;;;;;;;
+Warehouse;467000;Number pallets;;;;;;;;;;;
+;;;;;;;;;;;;;
+Production/Assembly;1700000;Number components;;;;;;;;;;;
+Quality control;450000;Number components;;;;;;;;;;;
+Warehouse out;340000;Number sold units;;;;;;;;;;;
+Customer support;250000;Number products;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;Each component comes on a pallet.;;;;;;;;;;;
+;;One pallet contains the following amount of components:;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;A;B;C;D;E;F;G;H;I;K;L
+;;;;;;;;;;;;;
+;;Number components per pallet;405;339;102;498;236;475;371;398;138;385;322
